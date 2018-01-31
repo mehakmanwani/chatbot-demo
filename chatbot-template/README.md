@@ -46,4 +46,4 @@ https://console.bluemix.net/catalog/services/conversation
 4. Run the commands: 
 	- `bx login` (Enter your IBM Cloud Email and Password)
 	- `bx target -o ORG -s SPACE` (Replace ORG with the IBM Cloud organization, and SPACE with the space name)
-	- `bx cf push` 
+	- `bx app push` 
