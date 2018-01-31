@@ -20,7 +20,7 @@ https://console.bluemix.net/catalog/services/conversation
 
 1. Clone (or download) the python application from this GitHub Repo
 
-2. Open Watson Conversation Service & create credentials (from the tab on the left)
+2. Open Watson Conversation Service & click on 'New Credential' to create credentials (from the tab on the left)
 
 3. Copy the Username and Password from the credentials 
 
