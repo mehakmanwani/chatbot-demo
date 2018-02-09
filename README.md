@@ -48,18 +48,19 @@ https://console.bluemix.net/catalog/services/conversation
 
 2. Open the Command Line/ Terminal
 
-a) WINDOWS: On your computer - Click Start --> Type cmd --> Open the Command Prompt
-b) MAC: On your computer - Click on the search icon --> Type Terminal --> Open the Terminal
+	a) WINDOWS: On your computer - Click Start --> Type cmd --> Open the Command Prompt
+	
+	b) MAC: On your computer - Click on the search icon --> Type Terminal --> Open the Terminal
 
 3. Navigate to the directory of the Python application that contains the app.py file
 
 4. Run the commands:
 
-a) Login to your IBM Cloud Account
--`bx login` (Enter your IBM Cloud Email and Password)
+	a) Login to your IBM Cloud Account
+	-`bx login` (Enter your IBM Cloud Email and Password)
 
-b) Target the specific organization and space you want to deploy the app in
-- `bx target -o ORG -s SPACE` (Replace ORG with the IBM Cloud organization, and SPACE with the space name)<img width="518" alt="org" src="https://user-images.githubusercontent.com/36006325/35639064-687578fa-06d2-11e8-9ce5-1ca7054855dc.PNG">
+	b) Target the specific organization and space you want to deploy the app in
+	- `bx target -o ORG -s SPACE` (Replace ORG with the IBM Cloud organization, and SPACE with the space name)<img width="518" alt="org" src="https://user-images.githubusercontent.com/36006325/35639064-687578fa-06d2-11e8-9ce5-1ca7054855dc.PNG">
 
-c) Push/Deploy the app on the cloud
-- `bx app push` 
+	c) Push/Deploy the app on the cloud
+	- `bx app push` 
