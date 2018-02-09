@@ -4,6 +4,24 @@ Create and Deploy a chatbot using IBM Cloud
 ### Purpose 
 This is a Python Flask web application with a simple _chat-friendly_ User Interface using IBM Watson Conversation built as a demo for Etihad Innovation Workshop in Abu Dhabi, United Arab Emirates. 
 
+### About
+With the IBM Watson™ Conversation service, you can build a solution that understands natural-language input and uses machine learning to respond to customers in a way that simulates a conversation between humans.
+
+### How it Works
+This diagram shows the overall architecture of a complete solution:
+
+![overview](https://user-images.githubusercontent.com/36006325/36040205-457fcbd0-0dde-11e8-9ebb-8b732096425e.png)
+
+- Users interact with your application through the user interface that you implement. For example, a simple chat window or a mobile app, or even a robot with a voice interface.
+
+- The application sends the user input to the Conversation service.
+
+	- The application connects to a workspace, which is a container for your dialog flow and training data.
+	- The service interprets the user input, directs the flow of the conversation and gathers information that it needs.
+	- You can connect additional Watson services to analyze user input, such as Tone Analyzer or Speech to Text.
+	
+- The application can interact with your back-end systems based on the user's intent and additional information. For example, answer question, open tickets, update account information, or place orders. There is no limit to what you can do.
+
 ### How to create a Watson Conversation Instance on IBM Cloud
 1. Create an account on IBM Cloud 
 https://ibm.biz/BdZct8
@@ -25,15 +43,15 @@ https://console.bluemix.net/catalog/services/conversation
 
 <img width="165" alt="clone" src="https://user-images.githubusercontent.com/36006325/36037109-27632880-0dd5-11e8-93b7-674590b3bb36.PNG">
 
-	- Once you have downloaded the file, go to the folder where you saved the file
+- Once you have downloaded the file, go to the folder where you saved the file
 
 <img width="537" alt="contaning" src="https://user-images.githubusercontent.com/36006325/36039968-7a30de74-0ddd-11e8-8eef-bc04bbb69ecc.PNG">
-	
-	- Right click on the folder, and click on 'Extract All'
+
+- Right click on the folder, and click on 'Extract All'
 
 <img width="305" alt="extract" src="https://user-images.githubusercontent.com/36006325/36039991-8c76b040-0ddd-11e8-8248-3bda799ff0e0.png">
-	
-	- Extract the file to the destination of your choice
+
+- Extract the file to the destination of your choice
 
 <img width="435" alt="destination" src="https://user-images.githubusercontent.com/36006325/36040007-a03a92e0-0ddd-11e8-8f7d-644e95fdf32a.PNG">
 	
