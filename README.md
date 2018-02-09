@@ -43,6 +43,8 @@ https://console.bluemix.net/catalog/services/conversation
 1. Ensure that the IBM Cloud CLI (https://console.bluemix.net/docs/cli/reference/bluemix_cli/all_versions.html#ibm-cloud-cli-installer-all-versions) tool is installed
 
 2. Open the Command Line/ Terminal
+	WINDOWS: On your computer - Click Start --> Type cmd --> Open the Command Prompt
+	MAC: On your computer - Click on the search icon --> Type Terminal --> Open the Terminal
 
 3. Navigate to the directory of the Python application that contains the app.py file
 
