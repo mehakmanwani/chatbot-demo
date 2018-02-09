@@ -19,8 +19,10 @@ https://console.bluemix.net/catalog/services/conversation
 ### How to connect the Watson Conversation Service to the Python web application
 
 1. Clone (or download) the python application from this GitHub Repo
+	Scroll up and Click on the green 'Clone or download' button
+	<img width="165" alt="clone" src="https://user-images.githubusercontent.com/36006325/36037109-27632880-0dd5-11e8-93b7-674590b3bb36.PNG">
 
-2. Open Watson Conversation Service & click on 'New Credential' to create credentials (from the tab on the left)<img width="786" alt="credentisla" src="https://user-images.githubusercontent.com/36006325/35639053-61d9b1b4-06d2-11e8-9af1-4bbb356e5b3f.PNG"> <img width="698" alt="new cred" src="https://user-images.githubusercontent.com/36006325/35639062-66cf78a2-06d2-11e8-8007-97d787424b7e.PNG">
+2. Open Watson Conversation Service & Click on 'Service credentials'(from the tab on the left) and then click on 'New Credentials'<img width="786" alt="credentisla" src="https://user-images.githubusercontent.com/36006325/35639053-61d9b1b4-06d2-11e8-9af1-4bbb356e5b3f.PNG"> <img width="698" alt="new cred" src="https://user-images.githubusercontent.com/36006325/35639062-66cf78a2-06d2-11e8-8007-97d787424b7e.PNG">
 
 3. Copy the Username and Password from the credentials 
 ![api-credential](https://user-images.githubusercontent.com/36006325/36036872-77ea38f8-0dd4-11e8-8ab1-2f3a5c2d49e7.png)
