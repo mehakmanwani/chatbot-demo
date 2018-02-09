@@ -97,4 +97,4 @@ https://console.bluemix.net/catalog/services/conversation
 	- `bx target -o ORG -s SPACE` (Replace ORG with the IBM Cloud organization, and SPACE with the space name)<img width="518" alt="org" src="https://user-images.githubusercontent.com/36006325/35639064-687578fa-06d2-11e8-9ce5-1ca7054855dc.PNG">
 
 - Push/Deploy the app on the cloud
-	-`bx app push` 
+	- `bx app push` 
