@@ -12,7 +12,7 @@ https://ibm.biz/BdZct8
 https://console.bluemix.net/catalog/services/conversation
  
 3. Open the Conversation Web UI (Launch Tool) 
-	-Opens in a separate tab
+	- Opens in a separate tab
 
 <img width="530" alt="tool" src="https://user-images.githubusercontent.com/36006325/35639068-6a8d1828-06d2-11e8-8089-2181304f3887.PNG">
 
