@@ -83,6 +83,8 @@ https://console.bluemix.net/catalog/services/conversation
 
 1. Ensure that the IBM Cloud CLI (https://console.bluemix.net/docs/cli/reference/bluemix_cli/all_versions.html#ibm-cloud-cli-installer-all-versions) tool is installed
 
+	- IBM Cloud CLI provides the command line interface to manage applications, containers, infrastructures, services and other resources in IBM Cloud.
+
 2. Open the Command Line/ Terminal
 
 	a) WINDOWS: On your computer - Click Start --> Type cmd --> Open the Command Prompt
@@ -101,3 +103,9 @@ https://console.bluemix.net/catalog/services/conversation
 
 - Push/Deploy the app on the cloud
 	- `bx app push` 
+	
+### Summary
+- We learnt how to create an instance of the Watson Conversation Service on IBM Cloud
+- Within the Conversation Service, we created a Workspace (where we can later train our specific chatbot)
+- We authenticated a python Flask application to be able to communicate with the Watson Conversation Service and the specific workspace
+- Lastly, we deployed the application on IBM Cloud using the IBM Cloud Command Line Interface
