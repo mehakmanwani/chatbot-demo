@@ -74,6 +74,9 @@ https://console.bluemix.net/catalog/services/conversation
 <img width="279" alt="username" src="https://user-images.githubusercontent.com/36006325/35639074-6cf8bb62-06d2-11e8-89fb-731c608bd677.PNG">
 <img width="271" alt="workspace" src="https://user-images.githubusercontent.com/36006325/35639082-6ebe304e-06d2-11e8-9291-74b64b6a6b23.PNG">
 
+- These Service credentials replaced in the python app.py file provide authentication to the Watson Conversation service you created on IBM® Cloud. A set of credentials can be used only with the service for which they are created.
+
+- The workspace ID provides authentication to the specific workspace that you will be training for your chatbot.
 
 
 ### How to deploy on IBM Cloud
