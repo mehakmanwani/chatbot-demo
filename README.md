@@ -34,7 +34,7 @@ https://console.bluemix.net/catalog/services/conversation
 6. Copy the Workspace ID
 
 7. Open app.py from the python application in the Text Editor of your choice (E.g. Sublime - https://www.sublimetext.com/3)
-(Go to the directory where you have unzipped the 'chatbot-demo-master.zip' file and navigate to subdirectory 'chatbot-demo-master\chatbot-template')
+	- Go to the directory where you have unzipped the 'chatbot-demo-master.zip' file and navigate to subdirectory 'chatbot-demo-master\chatbot-template'
 
 8. Replace 'username', 'password' & 'workspace ID' in app.py with the username and password from the Watson Conversation credentials and your Workspace ID
 <img width="279" alt="username" src="https://user-images.githubusercontent.com/36006325/35639074-6cf8bb62-06d2-11e8-89fb-731c608bd677.PNG">
