@@ -26,16 +26,16 @@ https://console.bluemix.net/catalog/services/conversation
 <img width="165" alt="clone" src="https://user-images.githubusercontent.com/36006325/36037109-27632880-0dd5-11e8-93b7-674590b3bb36.PNG">
 
 	- Once you have downloaded the file, go to the folder where you saved the file
-	
-	<img width="537" alt="contaning" src="https://user-images.githubusercontent.com/36006325/36039968-7a30de74-0ddd-11e8-8eef-bc04bbb69ecc.PNG">
+
+<img width="537" alt="contaning" src="https://user-images.githubusercontent.com/36006325/36039968-7a30de74-0ddd-11e8-8eef-bc04bbb69ecc.PNG">
 	
 	- Right click on the folder, and click on 'Extract All'
-	
-	<img width="305" alt="extract" src="https://user-images.githubusercontent.com/36006325/36039991-8c76b040-0ddd-11e8-8248-3bda799ff0e0.png">
+
+<img width="305" alt="extract" src="https://user-images.githubusercontent.com/36006325/36039991-8c76b040-0ddd-11e8-8248-3bda799ff0e0.png">
 	
 	- Extract the file to the destination of your choice
-	
-	<img width="435" alt="destination" src="https://user-images.githubusercontent.com/36006325/36040007-a03a92e0-0ddd-11e8-8f7d-644e95fdf32a.PNG">
+
+<img width="435" alt="destination" src="https://user-images.githubusercontent.com/36006325/36040007-a03a92e0-0ddd-11e8-8f7d-644e95fdf32a.PNG">
 	
 
 2. Open Watson Conversation Service & Click on 'Service credentials'(from the tab on the left) and then click on 'New Credentials'<img width="786" alt="credentisla" src="https://user-images.githubusercontent.com/36006325/35639053-61d9b1b4-06d2-11e8-9af1-4bbb356e5b3f.PNG"> <img width="698" alt="new cred" src="https://user-images.githubusercontent.com/36006325/35639062-66cf78a2-06d2-11e8-8007-97d787424b7e.PNG">
